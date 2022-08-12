@@ -41,7 +41,8 @@ TCP : CPU flooding
 ```
 
 #### Sniffing
-* snmp-check
+* net-snmp : snmp browser
+* w3m : http browser
 
 ## Web Attack
 #### SQL Injection
