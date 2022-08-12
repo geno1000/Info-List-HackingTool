@@ -9,7 +9,7 @@
 * fuff : page
 
 
-## Brute Force
+## Cracking
 #### Password
 * hydra
 
