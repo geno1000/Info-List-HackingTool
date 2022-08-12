@@ -30,7 +30,7 @@ TCP : CPU flooding
 ```
 
 ## Man in the Middle
-#### Internal Network
+#### Sniffing
 * Ettercap : Arp Spoofing
 
 ## Web Attack
