@@ -21,9 +21,12 @@
 #### Flooding
 * Hping3 : ICMP, TCP, UDP Flooding
 ```
+ICMP : network flooding
 - ICMP LAND Flooding
 - ICMP Smarf Flooding
 - ICMP Ping of death Flooding
+
+TCP : CPU flooding
 - TCP Syn Flooding
 ```
 
