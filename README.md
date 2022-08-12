@@ -12,6 +12,9 @@
 ## Cracking
 #### Password
 * hydra
+```
+- SNMP Brute Force & Dictionally
+```
 
 ## Dos
 #### Local System
