@@ -33,12 +33,15 @@ TCP : CPU flooding
 ```
 
 ## Man in the Middle
-#### Spoofing & Sniffing
+#### Spoofing
 * Ettercap : Arp Spoofing
 ```
 - Arp Spoofing
 - DNS Spoofing
 ```
+
+#### Sniffing
+* snmp-check
 
 ## Web Attack
 #### SQL Injection
