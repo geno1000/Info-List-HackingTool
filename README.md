@@ -34,7 +34,7 @@ TCP : CPU flooding
 
 ## Man in the Middle
 #### Spoofing
-* Ettercap : Arp Spoofing
+* Ettercap : Spoofing
 ```
 - Arp Spoofing
 - DNS Spoofing
