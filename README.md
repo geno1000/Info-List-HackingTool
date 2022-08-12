@@ -4,12 +4,13 @@
 * SearchSploit
 
 ### Checking Status
-* nmap
-* fuff
-* tshark
+* tshark : packet
+* nmap : port
+* fuff : page
 
-## Cracking
-#### Password Attack
+
+## Brute Force
+#### Password
 * hydra
 
 ## Man in the Middle
@@ -23,6 +24,7 @@
 - ICMP LAND Flooding
 - ICMP Smarf Flooding
 - ICMP Ping of death Flooding
+- TCP Syn Flooding
 ```
 
 ### Web Attack
