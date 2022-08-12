@@ -14,12 +14,12 @@
 * hydra
 
 ## Man in the Middle
-#### Network
-* Ettercap : Internal Network Arp Spoofing
+#### Internal Network
+* Ettercap : Arp Spoofing
 
 ## Dos
-#### Network
-* Hping3 : Flooding
+#### Flooding
+* Hping3 : ICMP, TCP, UDP Flooding
 ```
 - ICMP LAND Flooding
 - ICMP Smarf Flooding
