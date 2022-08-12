@@ -38,7 +38,8 @@ TCP : CPU flooding
 * Ettercap : Spoofing
 ```
 - Arp Spoofing
-- DNS Spoofing
+- DNS Spoofing : Plugin / dns_spoof
+- HTTP Spoofing : Plugin / sslstrip
 ```
 
 #### Sniffing
