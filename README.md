@@ -2,7 +2,7 @@
 
 ## Information Search
 * SearchSploit : exploit-database web
-* shodan : shodan web
+* Shodan : shodan web
 
 ## Checking Status
 #### Social Engineering
