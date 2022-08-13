@@ -8,9 +8,9 @@
 * 
 #### FootPrinting
 * tshark : packet
+* dnsenum : dns
 * nmap : port
 * fuff : page
-
 
 ## Cracking
 #### Password
