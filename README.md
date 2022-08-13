@@ -4,6 +4,9 @@
 * SearchSploit
 
 ## Checking Status
+#### Social Engineering
+* 
+#### FootPrinting
 * tshark : packet
 * nmap : port
 * fuff : page
