@@ -1,8 +1,8 @@
 # Info-List-HackingTool
 
 ## Information Search
-* SearchSploit : exploit-database
-* shodan : 
+* SearchSploit : exploit-database web
+* shodan : shodan web
 
 ## Checking Status
 #### Social Engineering
