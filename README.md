@@ -8,7 +8,7 @@
 * 
 #### FootPrinting
 * tshark : packet
-* dnsenum : dns
+* dnsmap : dns
 * nmap : port
 * fuff : page
 
